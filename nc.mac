@@ -1,0 +1,91 @@
+/* [wxMaxima: input   start ] */
+c:bfloat(299792458);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+k:bfloat(1.38064852e-23) ;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+h:bfloat(6.626070040e-34);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sigma:bfloat(5.670367e-8);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+R_Sonne:bfloat(696342e3);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+T_Sonne:bfloat(5778);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Phi_R:bfloat(3.0128e28);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+E_R:bfloat(2.518021002e-8);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+AE:bfloat(149597870700);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+pc:bfloat(648000/%pi*AE);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+p_Sonne:bfloat(pc/AE);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+m_Sonne:-26.74;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+M_Sonne:4.83;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+q_e:-1.602176634e-19;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+e_0:8.854187812813e-12;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+G:6.6743015e-11;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+m_e:9.10938371528e-31;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+eV:1.602176634e-19;
+/* [wxMaxima: input   end   ] */
+
+
+
