@@ -129,47 +129,47 @@ m_center: m_sun + m_mercury + m_venus + m_earth + m_moon + m_mars + m_jupiter + 
 
 
 /* [wxMaxima: input   start ] */
-p_mercury: 0.3876 * AU;
+a_mercury: 0.3876 * AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_venus: 0.7233 * AU;
+a_venus: 0.7233 * AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_earth: AU;
+a_earth: AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_moon: 384403e3;
+a_moon: 384403e3;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_mars: 1.524 * AU;
+a_mars: 1.524 * AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_jupiter: 5.204 * AU;
+a_jupiter: 5.204 * AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_saturn: 9.582 * AU;
+a_saturn: 9.582 * AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_uranus: 19.201 * AU;
+a_uranus: 19.201 * AU;
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
-p_neptune: 30.047 * AU;
+a_neptune: 30.047 * AU;
 /* [wxMaxima: input   end   ] */
 
 
