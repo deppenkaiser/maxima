@@ -1,0 +1,28 @@
+State Vector Calculation
+
+
+Calculation Inputs
+
+Calculation type     = State Vector
+Target type          = Object
+Target               = EARTH
+Observer type        = Object
+Observer             = SUN
+Reference frame      = ECLIPJ2000
+Light propagation    = No correction
+Time system          = UTC
+Time format          = Seconds past J2000
+Input time           = 0
+State representation = Rectangular
+
+
+State Vector Results
+
+UTC seconds past J2000  Distance (km)       Speed (km/s)  X (km)              Y (km)              Z (km)         dX/dt (km/s)  dY/dt (km/s)  dZ/dt (km/s)  Time at Target  Light Time (s)
+              0.000000  147103726.14209658   30.29209845  -26500945.98781632  144696945.73924600  -611.13775279  -29.79419056   -5.46968346    0.00018196        0.000000    490.68521311
+
+
+Kernels Used
+
+pds/wgc/mk/solar_system_v0056.tm
+pds/wgc/mk/latest_lsk_v0004.tm
